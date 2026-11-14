@@ -2,7 +2,9 @@
 
 An end-to-end data analytics portfolio project using **Python (Pandas)** for data preparation, **MySQL** for exploratory SQL analysis, and **Power BI** for an interactive sales dashboard.
 
-![Dashboard preview](Screenshots/dashboard.png)
+## Power BI Dashboard Preview
+
+![E-commerce Sales Dashboard](dashboard.png)
 
 ## Project workflow
 1. Start with an unclean e-commerce Excel dataset.
